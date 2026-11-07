@@ -1,0 +1,15 @@
+{
+  "name": "context-memo",
+  "version": "1.0.0",
+  "description": "Work with your Context Memo brands from Cursor: AI visibility reports, prompt results, competitor share, memos, and landing pages.",
+  "author": {
+    "name": "Context Memo",
+    "email": "stephen@contextmemo.com",
+    "url": "https://contextmemo.com"
+  },
+  "keywords": ["context-memo", "ai-visibility", "aeo", "geo", "ai-search", "mcp"],
+  "logo": "assets/logo.svg",
+  "primaryColor": "#0EA5E9",
+  "license": "MIT",
+  "repository": "https://github.com/Context-Memo/cursor-plugin"
+}

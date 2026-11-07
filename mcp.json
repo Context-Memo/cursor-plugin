@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "contextmemo": {
+      "type": "http",
+      "url": "https://contextmemo.com/api/mcp"
+    }
+  }
+}

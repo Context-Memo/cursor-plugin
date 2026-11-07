@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.contextmemo/mcp",
+  "title": "Context Memo",
+  "description": "AI visibility reports, prompt results, memos, and landing pages for your Context Memo brands.",
+  "version": "1.0.0",
+  "websiteUrl": "https://contextmemo.com",
+  "repository": {
+    "url": "https://github.com/Context-Memo/cursor-plugin",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://contextmemo.com/api/mcp"
+    }
+  ]
+}
