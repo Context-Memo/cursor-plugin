@@ -3,8 +3,15 @@
   "name": "com.contextmemo/mcp",
   "title": "Context Memo",
   "description": "AI visibility reports, prompt results, memos, and landing pages for your Context Memo brands.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://contextmemo.com",
+  "icons": [
+    {
+      "src": "https://contextmemo.com/brand/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
   "repository": {
     "url": "https://github.com/Context-Memo/cursor-plugin",
     "source": "github"
